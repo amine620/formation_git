@@ -7,20 +7,4 @@
    
 }
 
-div[class*="div"]{
-    
-    border: 1px solid black;
-    width: 100px;
-    height: 100px;
-}
-.div1{
-    order: 2;
- 
-}
-.div2{
-    order: 3;
-}
-.div3{
-    order: 1;
-}
 
